@@ -1,5 +1,5 @@
 {
-  "locales": [ "ja-jp", "zh-tw", "ru-ru", "pl-pl", "ko-kr" ],
+  "locales": [ "ja-jp" ],
   "files": [
     "*/*.md",
     "*/**/*.md"

@@ -1142,4 +1142,4 @@ The following pattern may also be relevant to your scenario when implementing ca
 - The [Transactions in Redis](https://github.com/StackExchange/StackExchange.Redis/blob/master/Docs/Transactions.md) page on the StackExchange.Redis repo.
 - The [Data Partitioning Guide](http://msdn.microsoft.com/library/dn589795.aspx) on the Microsoft website.
 
-test
+test1

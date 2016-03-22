@@ -21,7 +21,7 @@ This article contains multiple topics for administering an Azure Automation envi
 
 ## Data retention
 
-When you delete a resource in Azure Automation, it is retained for 90 days for auditing purposes before being removed permanently.  You can’t see or use the resource during this time.  This policy also applies to resources that belong to an automation account that is deleted.
+When you delete a resource in Azure Automation, it is retained for 90 days for auditing purposes before being removed permanently.  You can’t see or use the resource during this time.  This policy also applies to resources that belong to an automation account that is deleted.  Sonja is making test comments here. Please ignore this.
 
 Azure Automation automatically deletes and permanently removes jobs older than 90 days.
 
